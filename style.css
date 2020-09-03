@@ -138,7 +138,7 @@ img {
 }
 
 .top {
-  background: url(../img/mv.png);
+  background: url(../daily-trial/mv.png);
   position: relative;
 }
 
@@ -254,7 +254,7 @@ img {
 
 .news-icon {
   position: absolute;
-  background: transparent url(../img/news-arrow.svg) no-repeat center center/contain;
+  background: transparent url(../daily-trial/news-arrow.svg) no-repeat center center/contain;
   width: 15px;
   height: 25px;
   top: 50%;
@@ -745,7 +745,7 @@ img {
 }
 
 .FAQs {
-  background: url(../img/sunyu-kim-1053375-unsplash.png) center center/cover;
+  background: url(../daily-trial/sunyu-kim-1053375-unsplash.png) center center/cover;
   padding-bottom: 80px;
 }
 
@@ -804,7 +804,7 @@ img {
 }
 
 .accordion-icon {
-  background: url(../img/minus.svg) no-repeat center center/contain;
+  background: url(../daily-trial/minus.svg) no-repeat center center/contain;
   width: 15px;
   height: 15px;
   position: absolute;
@@ -814,7 +814,7 @@ img {
 }
 
 .accordion-icon.is-open {
-  background-image: url(../img/plus.svg);
+  background-image: url(../daily-trial/plus.svg);
   top: 50%;
   transform: translateY(-50%);
   transition: .4s;
@@ -962,7 +962,7 @@ img {
 }
 
 .contact {
-  background: url(../img/alex-blajan-159378-unsplash.png) center center/cover;
+  background: url(../daily-trial/alex-blajan-159378-unsplash.png) center center/cover;
 }
 
 @media screen and (min-width: 768px) {
@@ -986,7 +986,7 @@ img {
 }
 
 .contact-head {
-  background: url(../img/contact1.png) center center/cover;
+  background: url(../daily-trial/contact1.png) center center/cover;
   color: #FFF;
   border-radius: 12px 12px 0 0;
   transform: scale(1.08);
