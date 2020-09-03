@@ -1004,7 +1004,7 @@ img {
 
 @media screen and (max-width: 767px) {
   .contact-head .contact-text {
-    padding: 12px 32px;
+    padding: 12px 32px 60px;
     font-size: 14px;
   }
 }
