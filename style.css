@@ -570,7 +570,7 @@ img {
 
 .result-footer .util-link2:hover{
       background-color: #FFF;
-      color: $black-color;
+      color: #000;
     }
 
 .price-inner {
@@ -936,7 +936,7 @@ img {
 
 .access-head .util-link2:hover{
       background-color: #FFF;
-      color: $black-color;
+      color: #000F;
     }
 
 @media screen and (max-width: 767px) {
