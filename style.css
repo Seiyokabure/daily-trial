@@ -88,6 +88,10 @@ img {
   font-weight: bold;
 }
 
+.header-nav-item-link:hover{
+  border-bottom: solid 1.5px;
+}
+
 @media screen and (min-width: 768px) {
   .header-nav-item-link {
     height: 80px;
@@ -124,6 +128,15 @@ img {
   padding: 14px 48px;
 }
 
+
+.util-link:hover{
+    background-color: rgba(241, 137, 0, 1);
+  }
+
+.util-link:disabled{
+    background-color: (178, 178, 178, 1);
+  }
+
 .util-link2 {
   font-size: 20px;
   font-weight: bold;
@@ -136,6 +149,11 @@ img {
   text-decoration: none;
   padding: 20px 86px;
 }
+
+.util-link2:hover{
+    background-color: #3E3E3E;
+    color: #FFF;
+  }
 
 .top {
   background: url(../daily-trial/mv.png);
@@ -245,6 +263,10 @@ img {
 .news-item:nth-child(1) {
   border-top: 1px solid #CECDCD;
 }
+
+.news-item:hover{
+    background-color:rgba(73, 115, 255, 0.1);
+  }
 
 @media screen and (max-width: 767px) {
   .news-item {
@@ -545,6 +567,11 @@ img {
   text-decoration: none;
   color: #FFF;
 }
+
+.result-footer .util-link2:hover{
+      background-color: #FFF;
+      color: $black-color;
+    }
 
 .price-inner {
   margin: auto;
@@ -906,6 +933,11 @@ img {
   text-decoration: none;
   color: #FFF;
 }
+
+.access-head .util-link2:hover{
+      background-color: #FFF;
+      color: $black-color;
+    }
 
 @media screen and (max-width: 767px) {
   .access-head .util-link2 {
